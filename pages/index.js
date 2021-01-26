@@ -18,6 +18,20 @@ const BackgroundImage = styled.div`
   background-position: center;
  `;
 */
+
+const Button = styled.button`
+  background-color: #001970;
+  border: 2px;
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px darkblue;
+  color: white;
+  display: inline-block;
+  margin-top: 15px;
+  outline: 0;
+  padding: 5px 15px;
+  width: 100%;
+
+`;
 export const QuizContainer = styled.div`
   width: 100%;
   max-width: 350px;
@@ -63,10 +77,10 @@ export default function Home() {
                 }}
 
                 placeholder="digite seu nome!" />
-              <button type="submit" disabled={name.length===0}>
+              <Button type="submit" disabled={name.length===0}>
                 Jogar
                 {name}
-              </button>
+              </Button>
             </form>
           </Widget.Content>
         </Widget>
