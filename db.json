@@ -1,31 +1,93 @@
 {
     "bg": "https://i.imgur.com/YJEB3BZ.jpg",
-    "title": "Quiz CSS da Alura",
-    "description": "Teste os seus conhecimentos sobre CSS e vamos ver quantos layouts você vai deixar de quebrar",
+    "title": "Quizmica",
+    "description": "Teste seus conhecimentos sobre Química, a ciência central!",
     "questions": [
       {
-        "image": "https://media.giphy.com/media/xUOxf3yDKCuwpOlT3i/giphy.gif",
-        "title": "Como fazer um seletor por id via CSS?",
-        "description": "Essa é pra aquecer",
-        "answer": 2,
+        "image": "https://media.giphy.com/media/f9NaK0iIjpY5Vm80a0/giphy.gif",
+        "title": "Símbolos na tabela periódica?",
+        "description": "Marie Curie (1867-1934) ficou conhecida por descobrir dois elementos: Polônio e Rádio. Seus símbolos são:",
+        "answer": 0,
         "alternatives": [
-          ".elemento",
-          "*elemento",
-          "#elemento",
-          "%elemento"
+          "Po e Ra",
+          "P e Rd",
+          "Pl e Ro",
+          "Po e Rn"
         ]
       },
       {
-        "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-        "title": "Como fazer um background gradiente com css?",
-        "description": "Faz tempo em haha",
-        "answer": 0,
+        "image": "https://static.simpsonswiki.com/images/thumb/f/fc/Science_by_Scientists.png/250px-Science_by_Scientists.png",
+        "title": "Composição do reagente no experimento?",
+        "description": "Peróxido de Hidrogênio é frequentemente utilizado para criar um experimento chamado Elephant Toothpast (Pasta de Dente de Elefante), quais elementos formam esse composto?",
+        "answer": 2,
         "alternatives": [
-           "background: linear-gradient(#e66465, #9198e5);",
-           "background: gradient(#e66465, #9198e5);"
+           "H e Pe",
+           "P e O",
+           "H e O",
+           "He e O"
         ]
-      }
-    ],
+      },
+      {
+        "image": "https://media.giphy.com/media/8EmeieJAGjvUI/giphy.gif",
+        "title": "Símbolo do elemento que revolucionou a eletrônica?",
+        "description": "O Vale do Silício, morada das gigantes da tecnologia, recebe esse nome em homenagem ao elemento crucial no desenvolvimento de transistores, componente vital na eletrônica. Qual seu símbolo?",
+        "answer": 3,
+        "alternatives": [
+           "Se",
+           "S",
+           "Sn",
+           "Si"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/YBHXE5IlEBZiyNXf30/giphy.gif",
+        "title": "Qual elemento no teste de chama?",
+        "description": "O teste de chama é utilizado para detectar a presença de certos metais, a cor verde pode indicar a presença de: ",
+        "answer": 3,
+        "alternatives": [
+           "Sódio",
+           "Oxigênio",
+           "Vanádio",
+           "Boro"
+        ]
+      },
+      {
+        "image": "https://i.ytimg.com/vi/DX1iplQQJTo/maxresdefault.jpg",
+        "title": "Elementos radioativos que nos cercam...",
+        "description": "Um dos elementos radioativos mais conhecidos é o Urânio (U), muito usado para produção de energia elétrica, já o Césio pode ser utilizado em aparelhos de Raio X, qual é o seu simbolo?",
+        "answer": 1,
+        "alternatives": [
+           "Ce",
+           "Cs",
+           "C",
+           "Co"
+        ]
+      },
+      {
+        "image": "https://i.redd.it/1zf3o4c147461.png",
+        "title": "Qual o elemento químico em comum?",
+        "description": "O cloreto de sódio (sal de cozinha), cloroquina (medicamento para tratamento de malária) e hipoclorito de sódio (alvejante) possuem em comum o: ",
+        "answer": 2,
+        "alternatives": [
+           "Carbono, C",
+           "Cloro, Cl",
+           "Cloro, C",
+           "Carbono, Ca"
+        ]
+      },
+      {
+      "image": "https://pbs.twimg.com/media/CCUA9bMXIAARC4i.png",
+      "title": "Quais elementos estão presentes na molécula?",
+      "description": "O Ciclopropano, gás usado com o oxigênio como anestésico geral é composto por quais elementos?",
+      "answer": 2,
+      "alternatives": [
+         "C, Cl, Po",
+         "Ca, H, O",
+         "C, H, O",
+         "Ca, H, P"
+      ]
+    }
+  ],
     "external": [
       ""
     ],
