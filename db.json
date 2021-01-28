@@ -43,12 +43,12 @@
         "image": "https://media.giphy.com/media/YBHXE5IlEBZiyNXf30/giphy.gif",
         "title": "Qual elemento no teste de chama?",
         "description": "O teste de chama é utilizado para detectar a presença de certos metais, a cor verde pode indicar a presença de: ",
-        "answer": 3,
+        "answer": 0,
         "alternatives": [
-           "Sódio",
+           "Boro",
            "Oxigênio",
            "Vanádio",
-           "Boro"
+           "Sódio"
         ]
       },
       {
@@ -70,26 +70,26 @@
         "answer": 2,
         "alternatives": [
            "Carbono, C",
-           "Cloro, Cl",
            "Cloro, C",
+           "Cloro, Cl",
            "Carbono, Ca"
         ]
       },
       {
       "image": "https://pbs.twimg.com/media/CCUA9bMXIAARC4i.png",
       "title": "Quais elementos estão presentes na molécula?",
-      "description": "O Ciclopropano, gás usado com o oxigênio como anestésico geral é composto por quais elementos?",
-      "answer": 2,
+      "description": "O Ciclopropano, gás usado com o oxigênio como anestésico geral, é composto por quais elementos?",
+      "answer": 3,
       "alternatives": [
          "C, Cl, Po",
          "Ca, H, O",
-         "C, H, O",
-         "Ca, H, P"
+         "C, H, P",
+         "C, H, O"
       ]
     }
   ],
     "external": [
-      ""
+      "https://quizmica.vercel.app/"
     ],
     "theme": {
       "colors": {
@@ -97,8 +97,8 @@
         "secondary": "#3f51b5",
         "mainBg": "#171B35",
         "contrastText": "#FFFFFF",
-        "wrong": "#FF5722",
-        "success": "#4CAF50"
+        "wrong": "#ff867f",
+        "success": "#536dfe"
       },
       "borderRadius": "4px"
     }
