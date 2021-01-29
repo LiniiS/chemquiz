@@ -89,7 +89,8 @@
     }
   ],
     "external": [
-      "https://quizmica.vercel.app/"
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+
     ],
     "theme": {
       "colors": {

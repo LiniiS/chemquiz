@@ -2,15 +2,15 @@
 /* eslint-disable react/prop-types */
 import React from 'react';
 
-import AlternativesForm from '../src/components/AlternativesForm'
-import Button from '../src/components/Button';
-import db from '../db.json';
-import GitHubCorner from '../src/components/GitHubCorner';
-import LoadingSpinner from '../src/components/LoadingSpinner';
-import QuizLogo from '../src/components/QuizLogo';
-import QuizBackground from '../src/components/QuizBackground';
-import QuizContainer from '../src/components/QuizContainer';
-import Widget from '../src/components/Widget';
+import AlternativesForm from '../../src/components/AlternativesForm'
+import Button from '../../src/components/Button';
+import db from '../../db.json';
+import GitHubCorner from '../../src/components/GitHubCorner';
+import LoadingSpinner from '../../src/components/LoadingSpinner';
+import QuizLogo from '../../src/components/QuizLogo';
+import QuizBackground from '../../src/components/QuizBackground';
+import QuizContainer from '../../src/components/QuizContainer';
+import Widget from '../../src/components/Widget';
 
 function LoadingWidget() {
     return (
