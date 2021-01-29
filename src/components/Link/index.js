@@ -8,5 +8,5 @@ export default function Link({ children, href, ...props }) {
                 {children}
             </a>
         </NextLink>
-    )
+    );
 }

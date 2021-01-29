@@ -4,15 +4,39 @@
     "description": "Teste seus conhecimentos sobre Química, a ciência central!",
     "questions": [
       {
+        "image": "https://www.cpperformance.com/images/product/large/516-1010.GIF",
+        "title": "Símboldo do elemento essencial aos Gamers",
+        "description": "Os LEDs viralizaram por proporcionar mais glamour {e fps?!} aos entusiastas. Os primeiros leds surgiram através de uma blenda de dois metais, sendo o Germânio um deles. Qual o seu símbolo?",
+        "answer": 0,
+        "alternatives": [
+           "Ge",
+           "G",
+           "Gr",
+           "Ga"
+        ]
+      },
+      {
         "image": "https://media.giphy.com/media/f9NaK0iIjpY5Vm80a0/giphy.gif",
         "title": "Símbolos na tabela periódica?",
         "description": "Marie Curie (1867-1934) ficou conhecida por descobrir dois elementos: Polônio e Rádio. Seus símbolos são:",
-        "answer": 0,
+        "answer": 1,
         "alternatives": [
+          "Po e Rd",
           "Po e Ra",
-          "P e Rd",
           "Pl e Ro",
           "Po e Rn"
+        ]
+      },
+      {
+        "image": "https://media.giphy.com/media/xT5LMNyqJr3Q7apMQM/giphy.gif",
+        "title": "Símbolo do elemento?",
+        "description": "O Ouro representa um metal extremamente útil em recobrir os contatos dos componentes eletrônicos, como as memórias RAM, pois ajuda a previnir a oxidação, qual o seu símbolo?",
+        "answer": 3,
+        "alternatives": [
+           "O",
+           "Ag",
+           "Os",
+           "Au"
         ]
       },
       {
@@ -76,20 +100,34 @@
         ]
       },
       {
+        "image": "https://i.imgur.com/C3WWwoX.jpg",
+        "title": " ",
+        "description": "A computação quântica já é uma realidade e alguns exploram o uso de hidretos de metais alcalinos contendo Rubídio, Potássio e Sódio que possuem, respectivamente, os símbolos:",
+        "answer": 3,
+        "alternatives": [
+           "Rn, Pt, Na",
+           "Ru, P, Se",
+           "Ru, Po, S",
+           "Rb, K, Na"
+        ]
+      },
+      {
       "image": "https://pbs.twimg.com/media/CCUA9bMXIAARC4i.png",
       "title": "Quais elementos estão presentes na molécula?",
       "description": "O Ciclopropano, gás usado com o oxigênio como anestésico geral, é composto por quais elementos?",
-      "answer": 3,
+      "answer": 2,
       "alternatives": [
          "C, Cl, Po",
          "Ca, H, O",
-         "C, H, P",
-         "C, H, O"
+         "C, H, O",
+         "C, H, P"
       ]
     }
   ],
     "external": [
-      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/",
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://chemquiz.liniis.vercel.app"
 
     ],
     "theme": {

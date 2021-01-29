@@ -22,7 +22,9 @@ export default function Home() {
   return (
     <QuizBackground backgroundImage={db.bg}>
       <Head>
-        <title>Quizmica</title>
+        <title>
+          Quizmica
+        </title>
        </Head>
       <QuizContainer>
         <QuizLogo />
@@ -72,6 +74,7 @@ export default function Home() {
         >
           <Widget.Content>
             <h1> Quizes da Galera</h1>
+            <p> Mergulhe nos mais diversos temas!</p>
             <ul>
               {db.external.map((linkExterno) => {
                 const [projectName, githubUser] = linkExterno

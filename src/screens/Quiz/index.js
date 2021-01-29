@@ -12,6 +12,7 @@ import QuizBackground from '../../components/QuizBackground';
 import QuizContainer from '../../components/QuizContainer';
 import Widget from '../../components/Widget';
 
+//import loadingAnimation from './animations/loading.json';
 
 function LoadingWidget() {
     return (
@@ -207,7 +208,6 @@ function LoadingWidget() {
   
           {screenState === screenStates.RESULT && <ResultWidget results={results}/>}
         </QuizContainer>
-        <GitHubCorner projectUrl="https://github.com/LiniiS" />
       </QuizBackground>
     );
 }
